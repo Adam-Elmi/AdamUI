@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "react": "cd ./packages/react && npm run dev",
+    "astro": "cd ./packages/astro && npm run dev"
   },
   "keywords": ["Reusable", "Components"],
   "author": "Adam Elmi",
