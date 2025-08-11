@@ -1,0 +1,11 @@
+{
+  "name": "adamui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": ["Reusable", "Components"],
+  "author": "Adam Elmi",
+  "license": "MIT",
+  "description": "Reusable Components"
+}
